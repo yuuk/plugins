@@ -2,6 +2,7 @@ module.exports = {
   description: 'does not replace plugin options',
   options: {
     original: 'replaced',
+    values: undefined,
     delimiters: ['', ''],
     sourcemap: true,
     sourceMap: true,
